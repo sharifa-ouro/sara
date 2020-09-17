@@ -10,10 +10,10 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>kadi</artifactId>
+  <artifactId>kado</artifactId>
   <packaging>war</packaging>
-  <name>kadi</name>
-  <description>kadi.</description>
+  <name>kado</name>
+  <description>kado.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
